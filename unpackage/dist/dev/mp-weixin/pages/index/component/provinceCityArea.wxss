@@ -1,0 +1,39 @@
+
+.content {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.logo {
+	height: 200rpx;
+	width: 200rpx;
+	margin-top: 200rpx;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50rpx;
+}
+.uni-padding-wrap{
+	margin-left:40rpx;
+	width:100%;
+}
+.text-area {
+	display: flex;
+	justify-content: center;
+}
+.title {
+	font-size: 36rpx;
+	color: #8f8f94;
+}
+.picker-view {
+		width: 750rpx;
+		height: 600rpx;
+		margin-top: 20rpx;
+}
+.item {
+		height: 50px;
+		align-items: center;
+		justify-content: center;
+		text-align: center;
+}
+

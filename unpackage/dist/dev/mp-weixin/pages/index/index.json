@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "province-city-area": "/pages/index/component/provinceCityArea",
+    "star": "/pages/index/component/star"
+  }
+}

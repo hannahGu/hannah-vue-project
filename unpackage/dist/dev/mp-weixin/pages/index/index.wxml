@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><text class="title">{{title}}</text></view><view><star vue-id="8dd740cc-1" score="{{score}}" bind:__l="__l"></star><province-city-area vue-id="8dd740cc-2" bind:__l="__l"></province-city-area></view></view>

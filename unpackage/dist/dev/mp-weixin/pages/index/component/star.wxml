@@ -1,0 +1,1 @@
+<view class="star">评分：<block wx:for="{{itemClass}}" wx:for-item="itemClass" wx:for-index="index" wx:key="index"><view class="{{['star-item',itemClass]}}"></view></block></view>
